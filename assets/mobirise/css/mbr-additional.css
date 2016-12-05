@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-2 .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #00a885;
+}
+#menu-2 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+
+#menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-d .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-d .mbr-navbar__hamburger {
+  color: #00a885;
+}
+#menu-d .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+#content4-r .mbr-section-title .mbr-header__text {
+  color: #000000;
+}
+#content4-r .mbr-header__subtext {
+  color: #252525;
+}
+#content4-r .mbr-header__subtext SPAN {
+  color: #b8312f;
+}
+#content4-r .mbr-header__subtext B {
+  color: #252525;
+}
+
+#menu-x .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-x .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-x .mbr-navbar__hamburger {
+  color: #00a885;
+}
+#menu-x .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+
+#menu-12 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-12 .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-12 .mbr-navbar__hamburger {
+  color: #00a885;
+}
+#menu-12 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+
+#header1-0 P {
+  text-align: center;
+}
+#header1-0 B {
+  text-align: left;
+  color: #eb6b56;
+}
+#header1-0 .btn {
+  font-size: 15px;
+}
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-2 .mbr-navbar__section {
+  background: #2c82c9;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #00a885;
+}
+#menu-2 .mbr-navbar__items a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
+#content4-v .mbr-section-title .mbr-header__text {
+  color: #553982;
+  text-align: center;
+}
+#content4-v .mbr-header__subtext B {
+  color: #fac51c;
+}
+#content4-v .mbr-header__subtext {
+  color: #553982;
+}
+#header1-z P {
+  color: #ffffff;
+}
+#header1-z B {
+  text-align: left;
+}
